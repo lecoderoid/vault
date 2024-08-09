@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35a31e9832974edf",
+        "id": "50041c612395c3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4729e5c6ecb04742",
+            "id": "92f12740ce1e51fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/Cargo.toml.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cbbae0074299a4f7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/Cargo.toml.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/Cargo.toml.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/Cargo.toml.md"
+                "file": "coding/rust/rustProgramming/partOne/lesson02/Data Types.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96f19081daf31e0d",
+  "active": "92f12740ce1e51fb",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/Cargo.md",
+    "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
+    "coding/rust/rustProgramming/partOne/lesson02",
+    "coding/rust/rustProgramming/partOne/lesson01/Cargo.md",
+    "coding/rust/rustProgramming/partOne/lesson01/Formatting the code.md",
+    "coding/rust/rustProgramming/partOne/lesson01/Hello World.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
-    "coding/rust/rustProgramming/partOne/Hello World.md",
+    "coding/rust/rustProgramming/partOne/lesson01",
     "coding/rust/rustProgramming/rustfmt.md",
-    "coding/rust/rustProgramming/partOne/Formatting the code.md",
     "coding/rust/rustProgramming/macro.md",
     "entry.md",
     "coding/rust/rustProgramming/partOne",
