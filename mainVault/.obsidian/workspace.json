@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/Cargo.md",
+                "file": "coding/rust/rustProgramming/Cargo.toml.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/Cargo.md",
+                "file": "coding/rust/rustProgramming/Cargo.toml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/Cargo.md",
+                "file": "coding/rust/rustProgramming/Cargo.toml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/Cargo.md"
+                "file": "coding/rust/rustProgramming/Cargo.toml.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4729e5c6ecb04742",
+  "active": "96f19081daf31e0d",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/Hello World.md",
     "coding/rust/rustProgramming/partOne/Cargo.md",
+    "coding/rust/rustProgramming/Cargo.toml.md",
+    "coding/rust/rustProgramming/partOne/Hello World.md",
     "coding/rust/rustProgramming/rustfmt.md",
     "coding/rust/rustProgramming/partOne/Formatting the code.md",
     "coding/rust/rustProgramming/macro.md",

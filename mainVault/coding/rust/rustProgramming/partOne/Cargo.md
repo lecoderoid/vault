@@ -11,4 +11,4 @@ cargo new hello_world_via_cargo
 ```
 - this creates a new directory for the application which contains:
 	- src directory (contains the source code)
-	- Cargo.toml (packaging file)
+	- [[Cargo.toml]] (packaging file)
