@@ -46,3 +46,33 @@ let f4: f64 = -2.99792458e8;
 ``` rust
 pritnln!("\nElectron charge {:e}", f3);
 ```
+
+---
+## Boolean Values
+- Rust has a bool type, which must be *true* or *false*
+```rust
+let is_human: bool = true;
+let is_flat_earther = false;
+```
+- you can convert a bool value to 1 or 0
+```rust
+let is_human_num: i32 = is_human as i32;
+let is_flat_earther_num: i32 = is_flat_earther as i32;
+```
+
+### Combining Boolean Values
+- You can combine Boolean values using these operators:
+	- && Logical AND
+	- || Logical OR
+	- ! Logical NOT
+- These are short-circuiting operators
+	- as soon as the result is known, subsequent tests are not performed
+
+---
+## Character Values
+- rust has a *char* type, which supports Unicode characters
+- to represent a *char* value, use single quotes:
+```rust
+let first_letter_of_the_alphabet = 'a';
+let my_emoji = '🥲'; 
+```
