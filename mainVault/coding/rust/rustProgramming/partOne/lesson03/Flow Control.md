@@ -1,6 +1,6 @@
 # Flow Control
 
-## If-Test
+## [[If-Test]]
 - if-tests in rust are similar to most other languages:
 ```rust
 let age = 58;
