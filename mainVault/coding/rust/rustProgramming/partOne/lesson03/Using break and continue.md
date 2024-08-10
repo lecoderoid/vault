@@ -27,3 +27,18 @@ loop{
 - typical usage:
 	- loop over a collection, processing item
 		- if an item is invalid, skip it
+---
+## Controlling Nested Loops
+- You can use *break* or *continue* in nested loops
+- Label the outer loop. For example:
+```rust
+'outer: loop
+```
+- to break out of the loop:
+```rust
+break 'outer;
+```
+- to continue in the outer loop:
+```rust
+continue 'outer;
+```
