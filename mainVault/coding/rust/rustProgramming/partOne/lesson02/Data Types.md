@@ -76,3 +76,49 @@ let is_flat_earther_num: i32 = is_flat_earther as i32;
 let first_letter_of_the_alphabet = 'a';
 let my_emoji = '🥲'; 
 ```
+
+---
+## Additional Techniques
+
+### Inferring Types
+- rust can infer types for variables, which is good. 
+	- specify a value when you declare the variable
+	```rust
+	let a = -12345; //i32
+	let b = 3.14; //f64
+	let c = 'X'; //char
+	```
+### Declaring Mutable Variables
+- rust is about integrity and safety
+- in rust variables are immutable by default
+```rust
+let d = 0;	
+```
+- use the *mut* qualifier keyword to make a variable mutable
+``` rust
+let mut e = 0;
+```
+### Indicating Unused Variables
+- if you don't use a variable, prefix name with *_*
+``` rust 
+let _f = 0;
+```
+### Casting a Value to a Different Type
+- You can cast a value to a different type, using *as*:
+```rust
+let g = 3.99;
+let h  =  g as i32;
+```
+### Redeclaring a Variable
+- rust lets you redeclare a var in the current scope
+```rust
+let num = "1234"
+let num = 1234;
+```
+
+### Defining Compile-Time Constants
+- You can define compile-time constants:
+```rust
+const SECONDS_IN_HOUR: i32 = 3_600;
+```
+	- You must specify the var type and value
