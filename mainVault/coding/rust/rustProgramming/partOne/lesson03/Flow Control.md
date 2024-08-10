@@ -91,7 +91,7 @@ match num {
 match num {
 	25 | 50 | 75 => println!("25, 50, or 75"),
 	100 | 200    => println!("100 or 200"),
-	_            => println!("Something else");
+	_            => println!("Something else")
 }
 ```
 
@@ -111,9 +111,9 @@ match num {
 - You can use match as an expression:
 ```rust 
 let res = match num {
-	x if x < 50 => println!("Less than 50"),
-	x if x == 75 => println!("75"),
-	_            => println!("something else")
+	x if x < 50 => "Less than 50",
+	x if x == 75 => "75",
+	_            => "something else"
 };
 
 println!("Result of match expression: {}", res);
