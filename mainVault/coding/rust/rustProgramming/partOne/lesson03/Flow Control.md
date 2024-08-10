@@ -80,7 +80,7 @@ match num {
 match num {
 	25..=50  => println!("25 to 50"),
 	51..=100 => println!("51 to 100"),
-	_        => println!("Something else");
+	_        => println!("Something else")
 }
 ```
 - the upper limit must be inclusive
