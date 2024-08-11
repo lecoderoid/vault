@@ -1,6 +1,6 @@
 # Enums
 - an enum is a type with a closed set of values
-	- example, a *Flight*  enum might allow **Economy**, **Business**, **First**
+	- example, a *Flight* enum might allow **Economy**, **Business**, **First**
 	
 - enums are very important and are used widely in Rust
 	- both in the Rust lib, and in the code we write ourselves

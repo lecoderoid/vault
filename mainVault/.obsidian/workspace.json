@@ -11,12 +11,8 @@
             "id": "58c8c7a740136781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,8 @@
   "active": "58c8c7a740136781",
   "lastOpenFiles": [
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
-    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "match.md",
     "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
     "coding/rust/rustProgramming/partOne/lesson03/While.md",
