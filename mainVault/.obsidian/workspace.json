@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md"
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md"
               }
             }
           }
@@ -160,15 +160,18 @@
   },
   "active": "58c8c7a740136781",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
-    "for-in.md",
+    "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+    "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
+    "match.md",
+    "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
+    "coding/rust/rustProgramming/partOne/lesson03/While.md",
     "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
-    "infinite loop.md",
-    "While.md",
+    "coding/rust/rustProgramming/partOne/lesson04",
+    "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson01/Formatting the code.md",
     "coding/rust/rustProgramming/partOne/lesson01/Cargo.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
-    "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
     "coding/rust/rustProgramming/partOne/lesson03/If-Test.md",
     "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
     "Integers.md",

@@ -51,6 +51,9 @@ println!("You are {}", msg);
 
 ---
 ## Matching
+
+^dc7c24
+
 - Rust has a *match* keyword, which you can use to match:
 	- [[Integers]]
 	- [[Booleans]]
