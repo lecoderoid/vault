@@ -8,21 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58c8c7a740136781",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ce7afb894788b5ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
-                "mode": "source",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md"
+              }
             }
           }
         ]
@@ -150,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c8c7a740136781",
+  "active": "ce7afb894788b5ed",
   "lastOpenFiles": [
+    "variants.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
+    "Enums.md",
+    "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
     "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
-    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "match.md",
     "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
     "coding/rust/rustProgramming/partOne/lesson03/While.md",
     "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
     "coding/rust/rustProgramming/partOne/lesson04",
-    "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson01/Formatting the code.md",
     "coding/rust/rustProgramming/partOne/lesson01/Cargo.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
