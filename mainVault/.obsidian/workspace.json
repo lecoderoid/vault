@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md"
+                "file": "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "ce7afb894788b5ed",
   "lastOpenFiles": [
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
     "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
     "variants.md",
-    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "Enums.md",
     "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
