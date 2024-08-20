@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c711dc5658c4be02",
+        "id": "d87a21eeeb1942b1",
         "type": "tabs",
         "children": [
           {
-            "id": "ce7afb894788b5ed",
+            "id": "049d635f5832a6a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Tuples.md"
+                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md"
               }
             }
           }
@@ -146,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce7afb894788b5ed",
+  "active": "049d635f5832a6a7",
   "lastOpenFiles": [
+    "borrowing.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
+    "coding/rust/rustProgramming/Enums.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
+    "coding/rust/rustProgramming/Cargo.toml.md",
     "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
     "coding/rust/rustProgramming/partOne/lesson05/Arrays.md",
     "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
@@ -156,29 +161,24 @@
     "coding/rust/rustProgramming/partOne/lesson03/While.md",
     "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
     "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04/Result Enum.md",
     "matc.md",
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
-    "variants.md",
-    "Enums.md",
+    "coding/rust/rustProgramming/variants.md",
     "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
     "match.md",
     "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson01/Formatting the code.md",
     "coding/rust/rustProgramming/partOne/lesson01/Cargo.md",
-    "coding/rust/rustProgramming/Cargo.toml.md",
     "coding/rust/rustProgramming/partOne/lesson03/If-Test.md",
     "Integers.md",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
     "coding/rust/rustProgramming/partOne/lesson01",
-    "coding/rust/rustProgramming/rustfmt.md",
-    "coding/rust/rustProgramming/macro.md",
     "coding/rust/rustProgramming/partOne",
     "coding/rust/rustProgramming",
     "coding/rust",
