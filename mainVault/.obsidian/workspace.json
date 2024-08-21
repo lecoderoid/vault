@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9c843ac893687f",
+        "id": "291a113e7c82741c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb21d859dca8afe4",
+            "id": "93a3e48493d9a757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d19a923ecd39d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md"
+                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md"
               }
             }
           }
@@ -146,11 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb21d859dca8afe4",
+  "active": "93a3e48493d9a757",
   "lastOpenFiles": [
+    "enumration.md",
+    "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
+    "coding/rust/TheRustProgrammingLanguage/ch02/String.md",
+    "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
+    "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
+    "coding/rust/TheRustProgrammingLanguage/ch02",
+    "coding/rust/TheRustProgrammingLanguage",
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
     "coding/rust/rustProgramming/partOne/Untitled.canvas",
-    "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
     "coding/rust/rustProgramming/partOne/lesson05/Maps.md",
     "coding/rust/rustProgramming/partOne/lesson05/Overview.md",
     "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
@@ -172,16 +190,12 @@
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
     "coding/rust/rustProgramming/variants.md",
-    "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
-    "match.md",
-    "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
     "coding/rust/rustProgramming/partOne/lesson01",
     "coding/rust/rustProgramming/partOne",
     "coding/rust/rustProgramming",
-    "coding/rust",
-    "coding"
+    "coding/rust"
   ]
 }
