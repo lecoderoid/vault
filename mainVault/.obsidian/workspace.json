@@ -160,8 +160,9 @@
   },
   "active": "93a3e48493d9a757",
   "lastOpenFiles": [
-    "enumration.md",
+    "match.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
+    "enumration.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/String.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
     "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
@@ -189,7 +190,6 @@
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
-    "coding/rust/rustProgramming/variants.md",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",

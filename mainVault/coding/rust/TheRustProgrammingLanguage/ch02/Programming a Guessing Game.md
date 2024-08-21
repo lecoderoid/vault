@@ -59,5 +59,97 @@ io::stdin().read_line(&mut guess);
 ```
 - `{}` - this set of curly brackets is a placeholder
 
+---
+## Generating a Secret Number
+### Using a Crate to Get More Functionality
+- Crate is a collection of Rust source code files
+- we will use the *rand* crate to include random number functionality
+- we need to modify *Cargo.toml* file to include rand crate as a dependency
+```toml
+[dependencies]
+rand="0.8.5"
+```
 
+## Generating a Random Number
+```rust
+use std::io;
+use rand::Rng;
 
+fn main() {
+    println!("Guess the number!");
+
+    let secret_number = rand::thread_rng().gen_range(1..=100);
+
+    println!("The secret number is: {secret_number}");
+
+    println!("Please input your guess.");
+
+    let mut guess = String::new();
+
+    io::stdin()
+        .read_line(&mut guess)
+        .expect("Failed to read line");
+
+    println!("You guessed: {guess}");
+}
+```
+
+- the `Rng` defines methods that random number generators implement
+- `rand::thread_rng` function gives us the particular random number generator we are going to use: one that is local to the current thread of execution and is seeded by the OS
+- we then call `gen_range` method on the random number generator
+	- this method is defined by the `Rng` trait that we brought into scope
+	- this method takes a range of expression as an argument and generate a random number in that range
+		- the range takes the form `start..=end` and is inclusive on the lower and upper bounds
+
+## Comparing the Guess to the Secret Number
+```rust
+use rand::Rng;
+use std::cmp::Ordering;
+use std::io;
+
+fn main() {
+    // --snip--
+
+    println!("You guessed: {guess}");
+
+    match guess.cmp(&secret_number) {
+        Ordering::Less => println!("Too small!"),
+        Ordering::Greater => println!("Too big!"),
+        Ordering::Equal => println!("You win!"),
+    }
+}
+```
+
+- we add another type into the scope which is the `std::cmp::Ordering`
+	- the `Ordering` type is another [[enumeration]] and has the variants `Less`, `Greater`, and `Equal`
+- we use `cmp` method to compare two values
+	- it takes a reference to whatever we want to compare with: here it's comparing `guess` to `secret_number`
+	- it returns a variant of the `Ordering` enum
+- we use [[match]] expression to decide what to do next based on which variant of `Ordering` was returned from the call to `cmp`
+
+- we want to convert the `String` *guess* to a number type so we can compare it numerically to *secret_number*
+```rust
+    // --snip--
+
+    let mut guess = String::new();
+
+    io::stdin()
+        .read_line(&mut guess)
+        .expect("Failed to read line");
+
+	// we add this line below
+    let guess: u32 = guess.trim().parse().expect("Please type a number!");
+
+    println!("You guessed: {guess}");
+
+    match guess.cmp(&secret_number) {
+        Ordering::Less => println!("Too small!"),
+        Ordering::Greater => println!("Too big!"),
+        Ordering::Equal => println!("You win!"),
+    }
+```
+- Rust allows us to shadow the previous value of `guess`
+- *Shadowing* lets us reuse `guess` var
+- The `trim()` method on a *String* instance will eliminate any whitespace at the beginning and end
+- the `parse()` method converts a string to another type
+ - the `:` in `let guess: u32` tells Rust we will annotate the variable's type
