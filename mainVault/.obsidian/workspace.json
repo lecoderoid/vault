@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d87a21eeeb1942b1",
+        "id": "ad9c843ac893687f",
         "type": "tabs",
         "children": [
           {
-            "id": "049d635f5832a6a7",
+            "id": "eb21d859dca8afe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson05/Vectors.md"
+                "file": "coding/rust/rustProgramming/partOne/lesson05/HashMap.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049d635f5832a6a7",
+  "active": "eb21d859dca8afe4",
   "lastOpenFiles": [
-    "borrowing.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
-    "coding/rust/rustProgramming/Enums.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
+    "coding/rust/rustProgramming/partOne/Untitled.canvas",
+    "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Maps.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Overview.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
+    "coding/rust/rustProgramming/partOne/lesson05/Vectors.md",
+    "borrowing.md",
+    "coding/rust/rustProgramming/Enums.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
     "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
     "coding/rust/rustProgramming/partOne/lesson05/Arrays.md",
@@ -172,10 +176,6 @@
     "match.md",
     "coding/rust/rustProgramming/partOne/lesson03/infinite loop.md",
     "coding/rust/rustProgramming/partOne/lesson04",
-    "coding/rust/rustProgramming/partOne/lesson01/Formatting the code.md",
-    "coding/rust/rustProgramming/partOne/lesson01/Cargo.md",
-    "coding/rust/rustProgramming/partOne/lesson03/If-Test.md",
-    "Integers.md",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
     "coding/rust/rustProgramming/partOne/lesson01",
