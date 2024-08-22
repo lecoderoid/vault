@@ -152,4 +152,43 @@ fn main() {
 - *Shadowing* lets us reuse `guess` var
 - The `trim()` method on a *String* instance will eliminate any whitespace at the beginning and end
 - the `parse()` method converts a string to another type
- - the `:` in `let guess: u32` tells Rust we will annotate the variable's type
+- the `:` in `let guess: u32` tells Rust we will annotate the variable's type
+
+
+## Allowing Multiple Guesses with Looping
+- `Loop` keyword creates an infinite loop
+```rust
+     // --snip--
+
+    println!("The secret number is: {secret_number}");
+
+    loop {
+        println!("Please input your guess.");
+
+        // --snip--
+
+        match guess.cmp(&secret_number) {
+            Ordering::Less => println!("Too small!"),
+            Ordering::Greater => println!("Too big!"),
+            Ordering::Equal => println!("You win!"),
+        }
+    }
+}
+```
+
+### Quitting After a Correct Guess
+- `Break` makes the program exit the loop
+```rust
+        // --snip--
+
+        match guess.cmp(&secret_number) {
+            Ordering::Less => println!("Too small!"),
+            Ordering::Greater => println!("Too big!"),
+            Ordering::Equal => {
+                println!("You win!");
+                break;
+            }
+        }
+    }
+}
+```
