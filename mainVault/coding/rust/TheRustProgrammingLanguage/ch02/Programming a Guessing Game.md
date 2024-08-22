@@ -192,3 +192,24 @@ fn main() {
     }
 }
 ```
+
+### Handling Invalid Input
+- switch from `expect` call to a `match` expression
+```rust 
+        // --snip--
+
+        io::stdin()
+            .read_line(&mut guess)
+            .expect("Failed to read line");
+
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
+
+        println!("You guessed: {guess}");
+
+        // --snip--
+```
+- if `parse` is able to successfully turn the string into a number it will return `ok` value that contains the resultant number otherwise match expression will return `Err(_)`
+- `_` is a catchall value, we are saying that we want to match all `Err` values
