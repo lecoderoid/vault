@@ -36,3 +36,15 @@ fn main() {
     println!("The value of x is: {x}");
 }
 ```
+
+- we can also change the type of the value
+```rust
+let spaces = "   ";
+let spaces = spaces.len();
+```
+
+- if we use `mut` we will get a compile time error
+```rust
+let mut spaces = "  ";
+let spaces = spaces.len(); // error: we are not allowed to mutate a var type
+```
