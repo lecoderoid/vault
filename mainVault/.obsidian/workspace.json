@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md"
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md"
               }
             }
           }
@@ -160,10 +160,12 @@
   },
   "active": "93a3e48493d9a757",
   "lastOpenFiles": [
+    "integers.md",
+    "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
+    "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
     "match.md",
     "coding/rust/TheRustProgrammingLanguage/match.md",
-    "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
     "coding/rust/TheRustProgrammingLanguage/ch03",
     "enumration.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/String.md",
@@ -189,8 +191,6 @@
     "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04/Result Enum.md",
-    "matc.md",
-    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
