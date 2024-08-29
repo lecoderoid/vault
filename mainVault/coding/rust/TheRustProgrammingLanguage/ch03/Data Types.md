@@ -59,3 +59,26 @@ fn main() {
         );
 }
 ```
+
+
+## Boolean Type
+- *Boolean* type has two possible values: `true` and `false`
+- one byte in size
+```rust
+fn main(){
+    let t = true; 
+    let f: bool  = false; 
+}
+```
+- main way to use *boolean* values is through conditionals
+
+## Character Types
+- *Char* literals are specified with single quotes
+```rust 
+fn main(){
+   let c = 'z';
+   let z: char = 'ℤ' // explicit type annotation
+   let heart_eyed_cat = '😻';
+}
+```
+- rust `char` type is four bytes in size and represents a Unicode Scalar Value
