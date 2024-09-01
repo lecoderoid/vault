@@ -57,7 +57,7 @@ this is the block that evaluates to 4
 - you can return early from a function by using the `return` keyword and specifying a value
 ```rust
 fn five() -> i32 {
-   5
+   5 
 }
 
 fn main(){
@@ -65,3 +65,16 @@ fn main(){
    println!("The value of x is {}", x);
 }
 ```
+
+- another example
+```rust
+fn main(){
+  let x = plus_one(5);
+  println!("the value of x is {x}");
+}
+
+fn plus_one(x: i32) -> i32 {
+   x + 1
+}
+```
+- we don't put semicolon at the end of the line `x + 1`, changing it fro an expression to a statement we will get an error
