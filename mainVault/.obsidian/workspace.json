@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "291a113e7c82741c",
+        "id": "339eb95018709a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "93a3e48493d9a757",
+            "id": "e6ac2a8c2d77f74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95d19a923ecd39d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93a3e48493d9a757",
+  "active": "e6ac2a8c2d77f74a",
   "lastOpenFiles": [
-    "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
+    "coding/rust/rustProgramming/partOne/lesson06/Ownership Overview.md",
+    "coding/rust/rustProgramming/partOne/lesson06",
+    "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
     "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
+    "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
     "integers.md",
     "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
@@ -170,7 +161,6 @@
     "coding/rust/TheRustProgrammingLanguage/ch03",
     "enumration.md",
     "coding/rust/TheRustProgrammingLanguage/ch02/String.md",
-    "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
     "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
     "coding/rust/TheRustProgrammingLanguage/ch02",
     "coding/rust/TheRustProgrammingLanguage",
@@ -189,13 +179,11 @@
     "coding/rust/rustProgramming/partOne/lesson01/Hello World.md",
     "coding/rust/rustProgramming/partOne/lesson03/While.md",
     "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
-    "coding/rust/rustProgramming/partOne/lesson03/Loops.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
     "coding/rust/rustProgramming/partOne/lesson01",
-    "coding/rust/rustProgramming/partOne",
-    "coding/rust/rustProgramming"
+    "coding/rust/rustProgramming/partOne"
   ]
 }
