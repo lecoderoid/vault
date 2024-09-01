@@ -82,3 +82,41 @@ fn main(){
 }
 ```
 - rust `char` type is four bytes in size and represents a Unicode Scalar Value
+
+
+---
+
+# Compound Types
+- *Compound types* can group values into one type
+
+## Tuple Type
+- A *tuple* is a general way of grouping together a number of values with a variety of types into one
+- it has a fixed length
+
+```rust
+fn main(){
+   let tup: (i32, f64, u8) = (500, 6.4, 1);
+}
+```
+
+- to get the values out of a tuple we use pattern matching to destructure a tuple value
+```rust
+fn main(){
+   let tup = (500, 6.2, 1);
+   let (x, y, z) = tup;
+   println!("The of x, y, z: {}, {}, {}", x, y, z);
+}
+```
+
+- we can also access an element directly using a period (`.`) followed by the index of the value we want to access
+```rust
+fn main(){
+   let x: (i32, f64, u8) = (500, 6.4, 1);
+   let five_hundred = x.0;
+   let one = x.2;
+}
+```
+
+- a tuple without any values has a name called *unit* 
+- this value and it's corresponding type are both written `()` and represent an empty value or an empty return type
+- 
