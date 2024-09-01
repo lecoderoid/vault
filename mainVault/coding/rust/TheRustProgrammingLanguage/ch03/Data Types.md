@@ -119,4 +119,62 @@ fn main(){
 
 - a tuple without any values has a name called *unit* 
 - this value and it's corresponding type are both written `()` and represent an empty value or an empty return type
-- 
+
+
+## A rray Type
+- another way to have a collection of multiple values
+- every element of an array must have the same type
+- Rust array have a fixed length
+```rust
+fn main(){
+    let a = [1,2,3,4,5];
+}
+```
+- arrays are useful when you want your data allocated on the stack instead of the heap
+- you write an array's type using square brackets with the type of each element, a semicolon, and then the number of elements in the array
+```rust
+let a: [i32, 5] = [1,2,3,4,5];
+```
+- you can also initialize an array to contain the same value for each element by specifying the initial value, followed by a semicolon, and then the length of the array in square brackets
+```rust
+let a = [3: 5]; //same as let a = [3,3,3,3,3];
+```
+
+### Accessing Array Elements
+- you can access elements of an array using indexing
+```rust
+fn main(){
+  let a = [1,2,3,4,5];
+  let first = a[0];
+  let second = a[1];
+}
+```
+
+### Invalid Array Access
+- accessing element past the end of the array results in runtime error
+```rust
+use std::io;
+
+fn main() {
+    let a = [1, 2, 3, 4, 5];
+
+    println!("Enter an array index: ");
+
+    let mut index = String::new();
+
+    io::stdin()
+        .read_line(&mut index)
+        .expect("Failed to read line");
+
+    let index: usize = index
+        .trim()
+        .parse()
+        .expect("Index entered was not a number");
+
+    let element = a[index];
+
+    println!("The value of the element at index {index} is: {element}");
+}
+```
+
+- entering 5 or greater is an invalid value
