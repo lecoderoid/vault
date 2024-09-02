@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md"
+                "file": "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "e6ac2a8c2d77f74a",
   "lastOpenFiles": [
+    "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
+    "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
     "coding/rust/rustProgramming/partOne/lesson06/Ownership Overview.md",
     "coding/rust/rustProgramming/partOne/lesson06",
     "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
-    "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
     "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
     "integers.md",
     "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
@@ -178,7 +179,6 @@
     "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
     "coding/rust/rustProgramming/partOne/lesson01/Hello World.md",
     "coding/rust/rustProgramming/partOne/lesson03/While.md",
-    "coding/rust/rustProgramming/partOne/lesson03/Using break and continue.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
