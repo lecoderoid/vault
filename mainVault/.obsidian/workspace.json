@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson06/Static Variable.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson06/Global Static Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Variable"
+              "title": "Global Static Variables"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "40a48f25ca80a5e0",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/lesson06/Static vs Const.md",
     "coding/rust/rustProgramming/partOne/lesson06/Static Variable.md",
+    "coding/rust/rustProgramming/partOne/lesson06/Global Static Variables.md",
+    "coding/rust/rustProgramming/partOne/lesson06/Static vs Const.md",
     "coding/rust/rustProgramming/partOne/lesson06/Overview of Static Storage.md",
     "coding/rust/TheRustProgrammingLanguage/ch04/Ownership.md",
     "coding/rust/rustProgramming/partOne/lesson06/Ownership Overview.md",
@@ -194,7 +195,6 @@
     "borrowing.md",
     "coding/rust/rustProgramming/Enums.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Tuples.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
