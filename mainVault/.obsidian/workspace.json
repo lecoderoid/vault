@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson06/Copying vs Moving.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copying vs Moving"
+              "title": "Borrowing"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "b22af6e69c99bf40",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/lesson06/Strings.md",
+    "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
+    "coding/rust/rustProgramming/partOne/lesson06/Cloning.md",
+    "coding/rust/rustProgramming/partOne/lesson07",
     "coding/rust/rustProgramming/partOne/lesson06/Copying vs Moving.md",
+    "coding/rust/rustProgramming/partOne/lesson06/Strings.md",
     "coding/rust/rustProgramming/partOne/lesson06/Static Mutable Variable.md",
     "coding/rust/rustProgramming/partOne/lesson06/Overview of Static Storage.md",
     "coding/rust/rustProgramming/partOne/lesson06/Using Atomic Variables.md",
@@ -193,13 +196,10 @@
     "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
     "coding/rust/rustProgramming/partOne/Untitled.canvas",
     "coding/rust/rustProgramming/partOne/lesson05/Maps.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Overview.md",
-    "coding/rust/rustProgramming/partOne/lesson05/Using Compound Types and Collections.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
     "coding/rust/rustProgramming/partOne/lesson02",
-    "coding/rust/rustProgramming/partOne/lesson01",
-    "coding/rust/rustProgramming/partOne"
+    "coding/rust/rustProgramming/partOne/lesson01"
   ]
 }
