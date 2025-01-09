@@ -24,3 +24,38 @@ let s: &'static str = "hello";
  ```rust
  println!("{} {:p}, {}", s, s.as_ptr(), s.len());
 ```
+
+
+## Using the `String` Type
+
+- you can create an instance of the `String` type as follows:
+```rust
+let s = String::from("hello");
+```
+
+- you can specify the variable type explicitly:
+```rust
+let s: String = String::from("hello");
+```
+
+- internally, a `String` object holds text as a potentially growable vector of bytes
+
+### String memory deallocation
+
+- at the end of the function, memory is deallocated as ff:
+	- the `String` object goes out of scope, and is dropped off the stack
+	- the text held by the `String` object is deallocated from the heap
+
+- Rust defines a trait named `Drop`
+	- has a `drop()` function, similar to a *destructor * in C++
+	- called automatically at the end of an object's lifetime
+	- allows the object to deallocated its resources
+
+- The `String` type implements `Drop`
+	- deallocates text from the heap
+
+### Using Mutable `String` Objects
+
+- Rust allows you to modify text in `String` object
+	- Declare the `String` variable as `mut`
+	- Invoke methods to modify contents
