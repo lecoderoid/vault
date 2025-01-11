@@ -1,5 +1,5 @@
 # Dead code
-- imagine you define enum ([[Understanding Enums]]), and make use of some (but not all) of the variants:
+- [ ] imagine you define enum ([[Understanding Enums]]), and make use of some (but not all) of the variants:
 ```rust
 enum Color{
  Red, Green, Blue

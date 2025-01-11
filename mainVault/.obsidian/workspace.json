@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "06e71f038bfbfe62",
+        "id": "eef18095e488e488",
         "type": "tabs",
         "children": [
           {
-            "id": "b22af6e69c99bf40",
+            "id": "b21816ec3d243ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson07/Borrow Checke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borrowing"
+              "title": "Borrow Checke"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5110321044922
+    "width": 200
   },
   "right": {
     "id": "cbbae0074299a4f7",
@@ -162,9 +162,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b22af6e69c99bf40",
+  "active": "b21816ec3d243ce4",
   "lastOpenFiles": [
     "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
+    "coding/rust/rustProgramming/partOne/lesson07/Borrow Checke.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Result Enum.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
+    "Options.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
+    "coding/rust/rustProgramming/Enums.md",
+    "coding/rust/rustProgramming/macro.md",
+    "coding/rust/rustProgramming/rustfmt.md",
+    "coding/rust/rustProgramming/variants.md",
+    "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
+    "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
+    "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
+    "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
     "coding/rust/rustProgramming/partOne/lesson06/Cloning.md",
     "coding/rust/rustProgramming/partOne/lesson07",
     "coding/rust/rustProgramming/partOne/lesson06/Copying vs Moving.md",
@@ -178,24 +191,11 @@
     "coding/rust/TheRustProgrammingLanguage/ch04/Ownership.md",
     "coding/rust/rustProgramming/partOne/lesson06/Ownership Overview.md",
     "coding/rust/TheRustProgrammingLanguage/ch03/Control Flow.md",
-    "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
-    "coding/rust/TheRustProgrammingLanguage/ch03/Functions.md",
     "coding/rust/rustProgramming/partOne/lesson06",
-    "coding/rust/TheRustProgrammingLanguage/ch02/Storing Values with Variables.md",
-    "coding/rust/TheRustProgrammingLanguage/ch03/Data Types.md",
-    "integers.md",
-    "coding/rust/TheRustProgrammingLanguage/ch03/Variable and Mutability.md",
-    "match.md",
-    "coding/rust/TheRustProgrammingLanguage/match.md",
     "coding/rust/TheRustProgrammingLanguage/ch03",
-    "enumration.md",
-    "coding/rust/TheRustProgrammingLanguage/ch02/String.md",
-    "coding/rust/rustProgramming/partOne/lesson05/HashMap.md",
     "coding/rust/TheRustProgrammingLanguage/ch02",
     "coding/rust/TheRustProgrammingLanguage",
-    "coding/rust/rustProgramming/partOne/lesson03/Flow Control.md",
     "coding/rust/rustProgramming/partOne/Untitled.canvas",
-    "coding/rust/rustProgramming/partOne/lesson05/Maps.md",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
