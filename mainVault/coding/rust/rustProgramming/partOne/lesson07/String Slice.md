@@ -46,3 +46,4 @@ let s: &str = &obj; //coerces &obj (type &String) to s (type &str)
 let s: &'static str = "hello"
 ```
 
+ 

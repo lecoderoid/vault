@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eef18095e488e488",
+        "id": "18fd231a44a71bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "b21816ec3d243ce4",
+            "id": "d4b8745bbcbe79e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson07/String Slice.md",
+                "file": "coding/rust/rustProgramming/partOne/lesson07/String Slice techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String Slice"
+              "title": "String Slice techniques"
             }
           }
         ]
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21816ec3d243ce4",
+  "active": "d4b8745bbcbe79e6",
   "lastOpenFiles": [
+    "coding/rust/rustProgramming/Cargo.toml.md",
+    "coding/rust/rustProgramming/partOne/lesson07/String Slice techniques.md",
     "coding/rust/rustProgramming/partOne/lesson07/String Slice.md",
     "coding/rust/rustProgramming/partOne/lesson07/Borrow Checker.md",
     "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
@@ -189,8 +191,6 @@
     "coding/rust/rustProgramming/partOne/lesson06/Static Variable.md",
     "coding/rust/rustProgramming/partOne/lesson06/Global Static Variables.md",
     "coding/rust/rustProgramming/partOne/lesson06/Static vs Const.md",
-    "coding/rust/TheRustProgrammingLanguage/ch04/Ownership.md",
-    "coding/rust/rustProgramming/partOne/lesson06/Ownership Overview.md",
     "coding/rust/rustProgramming/partOne/lesson06",
     "coding/rust/TheRustProgrammingLanguage/ch03",
     "coding/rust/TheRustProgrammingLanguage/ch02",
