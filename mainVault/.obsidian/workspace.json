@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/rustProgramming/partOne/lesson07/Array Slice.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Slice"
+              "title": "Defining and Instantiating Structs"
             }
           }
         ]
@@ -164,15 +164,19 @@
   },
   "active": "d4b8745bbcbe79e6",
   "lastOpenFiles": [
-    "coding/rust/rustProgramming/partOne/lesson07/String Slice techniques.md",
+    "coding/rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
+    "coding/rust/TheRustProgrammingLanguage/ch05",
+    "coding/rust/rustProgramming/partOne/lesson03/for-in.md",
+    "Options.md",
+    "coding/rust/rustProgramming/partOne/lesson07/Array Slice Techniques.md",
     "coding/rust/rustProgramming/partOne/lesson07/Array Slice.md",
+    "coding/rust/rustProgramming/partOne/lesson07/String Slice techniques.md",
     "coding/rust/rustProgramming/Cargo.toml.md",
     "coding/rust/rustProgramming/partOne/lesson07/String Slice.md",
     "coding/rust/rustProgramming/partOne/lesson07/Borrow Checker.md",
     "coding/rust/rustProgramming/partOne/lesson07/Borrowing.md",
     "coding/rust/rustProgramming/partOne/lesson04/Result Enum.md",
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums with Options.md",
-    "Options.md",
     "coding/rust/rustProgramming/partOne/lesson04/Understanding Enums.md",
     "coding/rust/rustProgramming/Enums.md",
     "coding/rust/rustProgramming/macro.md",
@@ -188,9 +192,6 @@
     "coding/rust/rustProgramming/partOne/lesson06/Strings.md",
     "coding/rust/rustProgramming/partOne/lesson06/Static Mutable Variable.md",
     "coding/rust/rustProgramming/partOne/lesson06/Overview of Static Storage.md",
-    "coding/rust/rustProgramming/partOne/lesson06/Using Atomic Variables.md",
-    "coding/rust/rustProgramming/partOne/lesson06/Static Variable.md",
-    "coding/rust/rustProgramming/partOne/lesson06/Global Static Variables.md",
     "coding/rust/rustProgramming/partOne/lesson06",
     "coding/rust/TheRustProgrammingLanguage/ch03",
     "coding/rust/TheRustProgrammingLanguage/ch02",
@@ -199,7 +200,6 @@
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
     "coding/rust/rustProgramming/partOne/lesson03",
-    "coding/rust/rustProgramming/partOne/lesson02",
-    "coding/rust/rustProgramming/partOne/lesson01"
+    "coding/rust/rustProgramming/partOne/lesson02"
   ]
 }
