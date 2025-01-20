@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
+                "file": "coding/rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Method Syntax"
+              "title": "The match Control Flow Construct"
             }
           }
         ]
@@ -164,8 +164,13 @@
   },
   "active": "62d174ae5796bf77",
   "lastOpenFiles": [
-    "Untitled.md",
+    "coding/rust/TheRustProgrammingLanguage/ch06/Enum.md",
+    "coding/rust/TheRustProgrammingLanguage/ch06/match.md",
+    "coding/rust/TheRustProgrammingLanguage/ch06/Concise Control Flow with if let.md",
+    "coding/rust/TheRustProgrammingLanguage/ch06/The match Control Flow Construct.md",
     "coding/rust/TheRustProgrammingLanguage/ch05/Method Syntax.md",
+    "coding/rust/TheRustProgrammingLanguage/ch06",
+    "Untitled.md",
     "coding/rust/TheRustProgrammingLanguage/ch05/An Example Program Using Structs.md",
     "coding/rust/TheRustProgrammingLanguage/ch05/Defining and Instantiating Structs.md",
     "If-Test.md",
@@ -187,10 +192,6 @@
     "coding/rust/rustProgramming/Enums.md",
     "coding/rust/rustProgramming/macro.md",
     "coding/rust/rustProgramming/rustfmt.md",
-    "coding/rust/rustProgramming/variants.md",
-    "coding/rust/TheRustProgrammingLanguage/ch02/Programming a Guessing Game.md",
-    "coding/rust/rustProgramming/partOne/lesson04/Overview of Dead Code.md",
-    "coding/rust/rustProgramming/partOne/lesson02/Data Types.md",
     "coding/rust/rustProgramming/partOne/lesson07",
     "coding/rust/rustProgramming/partOne/lesson06",
     "coding/rust/TheRustProgrammingLanguage/ch03",
@@ -199,7 +200,6 @@
     "coding/rust/rustProgramming/partOne/Untitled.canvas",
     "coding/rust/rustProgramming/partOne/lesson05",
     "coding/rust/rustProgramming/partOne/lesson04",
-    "coding/rust/rustProgramming/partOne/lesson03",
-    "coding/rust/rustProgramming/partOne/lesson02"
+    "coding/rust/rustProgramming/partOne/lesson03"
   ]
 }
